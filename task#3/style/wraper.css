@@ -8,6 +8,7 @@
     width: 1200px;
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
     padding: 70px 0;
     outline: 1px solid black;
     box-shadow: 0 0 5px 3px rgba(0,0,0,0.3);
@@ -27,4 +28,4 @@ article p {
     outline: 3px solid goldenrod;
 }*/
 
-/*box-shadow: 0 0 5px 3px rgba(0 0 0 0.3);*/
+/*box-shadow: 0 0 5px 3px rgba(0,0,0,0.3);*/
