@@ -23,6 +23,7 @@
 	height: 50px;
 	/* vertical-align: middle; */
 	background-image: url(../img/icon.png);
+	opacity: 0.8;
 	/* background-repeat: no-repeat; */
 	/* background-position: inherit; */
 	background-size: cover;
@@ -32,6 +33,7 @@
 	width: 100%;
 	top: 10px;
 	right: -50px;
+	
 }
 .logo-img{
 	/* height: 50px; */
